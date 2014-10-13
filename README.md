@@ -1,4 +1,4 @@
-This Flask web app can be found here:
+This Flask app can be found here:
 
 http://velikooutro.pythonanywhere.com/
 
