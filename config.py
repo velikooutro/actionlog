@@ -10,7 +10,7 @@ DATABASE = 'actionlog.db'
 USERNAME = 'admin'
 PASSWORD = 'admin'
 CSRF_ENABLED = True
-SECRET_KEY = 'veliko.outro'
+SECRET_KEY = 'something_complex_and cryptic'
 
 # defines the full path for the database
 DATABASE_PATH = os.path.join(basedir, DATABASE)
